@@ -1,2 +1,2 @@
-# projetJava
-Projet d'étude en Java
+GLOO_A2014_Equipe_Quicksort
+===========================
